@@ -1,8 +1,15 @@
-<h1 align="center">Hi, I'm Manya Ruhela 👋</h1>
-<h3 align="center">B.Tech CSE (AI/ML) Student | Building with Computer Vision, NLP & Data Science</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a5acd,100:00c9a7&height=180&section=header&text=Manya%20Ruhela&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20(AI%2FML)%20%7C%20Computer%20Vision%20%C2%B7%20NLP%20%C2%B7%20Data%20Science&descAlignY=58&descSize=18" alt="header banner" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manyaruhela2005&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=560&lines=Building+with+Computer+Vision+%F0%9F%93%B7;Exploring+NLP+%26+Generative+AI+%F0%9F%A4%96;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/panda_1f43c.gif" width="45" alt="panda" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manyaruhela2005&label=Profile%20Views&color=6a5acd&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -45,7 +52,8 @@
 - **Space Object Detection System** — Object detection pipeline using YOLOv8 and DINOv2
 - **Spam vs Ham Classifier** — NLP text classifier using TF-IDF and traditional ML
 - **Smart Student Study Tracker** — Predictive tool using linear regression
-- **Reminder** - A reminder project with CRUD operations.
+- **Air Canvas** — Real-time color-tracking drawing app using HSV masking and contour/centroid tracking
+- **Real-Time Pose Landmarker** — Video-mode pose estimation with MediaPipe, with confidence filtering
 - **Bank Management System** — Core software project for transaction and account management
 
 ---
