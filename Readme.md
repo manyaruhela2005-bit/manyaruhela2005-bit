@@ -52,8 +52,7 @@
 - **Space Object Detection System** — Object detection pipeline using YOLOv8 and DINOv2
 - **Spam vs Ham Classifier** — NLP text classifier using TF-IDF and traditional ML
 - **Smart Student Study Tracker** — Predictive tool using linear regression
-- **Air Canvas** — Real-time color-tracking drawing app using HSV masking and contour/centroid tracking
-- **Real-Time Pose Landmarker** — Video-mode pose estimation with MediaPipe, with confidence filtering
+- **Reminder**- CRED operation project in python
 - **Bank Management System** — Core software project for transaction and account management
 
 ---
@@ -61,8 +60,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manyaruhela2005&show_icons=true&theme=default&hide_title=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyaruhela2005&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manyaruhela2005-bit&show_icons=true&theme=default&hide_title=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyaruhela2005-bit&layout=compact" />
 </p>
 
 <p align="center">
