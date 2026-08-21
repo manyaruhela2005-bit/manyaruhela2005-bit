@@ -59,10 +59,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manyaruhela2005-bit&show_icons=true&theme=default&hide_title=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyaruhela2005-bit&layout=compact" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manyaruhela2005-bit&theme=default" alt="streak stats" />
@@ -81,7 +77,9 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/manyaruhela2005](https://www.linkedin.com/in/manya-ruhela-b4940b378/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ManyaRuhela/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
   <a href="mailto:manyaruhela2005@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
