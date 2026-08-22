@@ -59,9 +59,8 @@
 
 ### 📊 GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manyaruhela2005-bit&theme=default" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manyaruhela2005-bit&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
